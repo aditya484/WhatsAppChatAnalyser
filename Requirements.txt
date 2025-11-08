@@ -1,0 +1,12 @@
+#Core
+Streamlit
+Pandas
+numpy
+
+#Visualization
+Seaborn
+Matplotlib
+WordCloud
+#Utilities
+urlextract
+emoji
