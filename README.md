@@ -78,6 +78,11 @@ Used to extract emojis from text.
 
 
 ## Screenshots
+<img width="1919" height="1079" alt="Screenshot 2025-11-08 235817" src="https://github.com/user-attachments/assets/455ffd1d-87ec-4191-a8f7-96bf8e688f0f" />
+<img width="1915" height="1079" alt="Screenshot 2025-11-09 000010" src="https://github.com/user-attachments/assets/07ebd947-1297-4dc1-bb20-6f12923aed73" />
+<img width="1913" height="1075" alt="Screenshot 2025-11-09 000001" src="https://github.com/user-attachments/assets/75ef0aab-b6ed-474d-a02b-dedf8419d094" />
+<img width="1918" height="1079" alt="Screenshot 2025-11-08 235951" src="https://github.com/user-attachments/assets/1baed380-abf9-43f1-8566-0729e06441c0" />
+<img width="1919" height="1077" alt="Screenshot 2025-11-08 235940" src="https://github.com/user-attachments/assets/fd2b5840-b86a-4e85-ae6e-6498998118bb" />
 
 ## Appendix
 WhatsApp Chat Export Format
