@@ -176,7 +176,7 @@ I'm a Btech II Year CSE AIML Student...
 ### 1️⃣ Clone the repository
 --bash
 git clone
-    https://github.com/aditya484/whatsapp-chat-analyzer.git
+    https://github.com/aditya484/WhatsAppChatAnalyser.git
 
 cd whatsapp-chat-analyzer
 
