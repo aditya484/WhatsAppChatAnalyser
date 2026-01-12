@@ -220,7 +220,7 @@ Python, Pandas, Streamlit, Matplotlib/Seaborn ...
 
 - [Aditya Verma](https://github.com/aditya484)
 - [Divyam Sinha]()
-- [Mark James] ()
+- [Mark James]()
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
