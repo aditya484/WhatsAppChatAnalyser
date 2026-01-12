@@ -138,7 +138,7 @@ Emoji
 ## Features
 
 Upload WhatsApp chat text file
-View total messages, words, media shared, links shared
+View total messages, words, media shared, and links shared
 Monthly & daily chat timeline
 Activity heatmap (day + hour)
 Busiest day & month
@@ -146,7 +146,7 @@ User-wise stats (Most active users)
 Word cloud generation
 Most common words
 Emoji usage frequency + pie chart
-Works for individual users or entire group
+Works for individual users or an entire group
 ## Documentation
 
 This application processes exported WhatsApp chat files (.txt) and provides analytic insights through an interactive Streamlit interface.
@@ -155,7 +155,7 @@ This application processes exported WhatsApp chat files (.txt) and provides anal
 
 User uploads chat file.
 
-Text is parsed to extract timestamp, sender, and message content.
+The text is parsed to extract the timestamp, sender, and message content.
 
 Data is structured using Pandas.
 
@@ -211,26 +211,21 @@ streamlit run app.py
 The app will open in your browser automatically.  
 If not, open:
 
-http://localhost:8502/
+http://10.109.126.193:8501
+
 ## 🛠 Skills
-Python, Pandas,Streamlit, Matplotlib/Seaborn ...
+Python, Pandas, Streamlit, Matplotlib/Seaborn ...
 
-
-## Other Common Github Profile Sections
 👩‍💻 I'm currently in II Year of Btech CSE AIML...
 
-🧠 I'm currently learning Machine Learning ...
-
 📫 How to reach me... adityalkverma484@gmail.com
-
 😄 Pronouns... He/Him
-
-⚡️ Fun fact... It iswas actually my first Project
+⚡️ Fun fact... It was my first Project
 
 
 ## Authors
 
-- [@aditya484](https://github.com/aditya484)
+- [aditya484](https://github.com/aditya484)
 - Divyam Sinha
 - Mark James
 ## License
