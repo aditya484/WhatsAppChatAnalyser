@@ -154,13 +154,9 @@ This application processes exported WhatsApp chat files (.txt) and provides anal
 🔹 Workflow
 
 User uploads chat file.
-
 The text is parsed to extract the timestamp, sender, and message content.
-
 Data is structured using Pandas.
-
 Key metrics and visualizations are generated.
-
 Results are presented in an intuitive dashboard.
 
 
@@ -194,11 +190,9 @@ venv\Scripts\activate
 ---bash
 source venv/bin/activate
 
-
 ### 4️⃣ Install dependencies
 ---bash
 pip install -r requirements.txt
-
 
 > **Note:** Ensure `stop_hinglish.txt` exists in project root.
 
@@ -206,7 +200,6 @@ pip install -r requirements.txt
 
 ---bash
 streamlit run app.py
-
 
 The app will open in your browser automatically.  
 If not, open:
@@ -227,7 +220,7 @@ Python, Pandas, Streamlit, Matplotlib/Seaborn ...
 
 - [Aditya Verma](https://github.com/aditya484)
 - [Divyam Sinha]()
-- [Mark James]
+- [Mark James] ()
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
