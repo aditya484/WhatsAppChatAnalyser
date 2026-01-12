@@ -225,9 +225,9 @@ Python, Pandas, Streamlit, Matplotlib/Seaborn ...
 
 ## Authors
 
-- [aditya484](https://github.com/aditya484)
-- Divyam Sinha
-- Mark James
+- [Aditya Verma](https://github.com/aditya484)
+- [Divyam Sinha]()
+- [Mark James]
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -253,13 +253,9 @@ Python, Pandas, Streamlit, Matplotlib/Seaborn ...
 🔹 Learning Resources
 Topic	         Link
 Streamlit	    https://docs.streamlit.io
-
 Pandas      	https://pandas.pydata.org
-
 Matplotlib   	https://matplotlib.org
-
 Seaborn     	https://seaborn.pydata.org
-
 WordCloud	    https://github.com/amueller/word_cloud
 
 Emoji	        https://pypi.org/project/emoji/
